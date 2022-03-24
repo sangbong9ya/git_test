@@ -1,7 +1,9 @@
 team: Tigers
-git
+
 manager: Donald
-g
+
+coach: Grace
+
 members:
 - Linda
 - William
